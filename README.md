@@ -1,5 +1,5 @@
 # JBUN skin microbiome lab  homepage
-- 기존 홈페이지: https://sites.google.com/view/skinmicrobiome-lab/home(구글 사이트)
+- 기존 홈페이지: https://sites.google.com/view/skinmicrobiome-lab/home
 
 ## 구글 사이트
 - 장점
